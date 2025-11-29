@@ -1,0 +1,259 @@
+{"prompt":"What is BPHC?","completion":"Benign prostatic hypertrophy (BPH)"}
+{"prompt":"What are the key facts about BPHC?","completion":"Category: chronic. ICD10 code: N40.1. Rare: No. Gender-specific: Yes. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is HCAP?","completion":"Lung infection (pneumonia) associated with healthcare (HCAP)"}
+{"prompt":"What are the key facts about HCAP?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is CAPPNA?","completion":"\"Walking\", \"common\" or lung infection (community acquired pneumonia)"}
+{"prompt":"What are the key facts about CAPPNA?","completion":"Category: acute. ICD10 code: J18.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is DM2?","completion":"Diabetes melltus type 2"}
+{"prompt":"What are the key facts about DM2?","completion":"Category: acute. ICD10 code: E11. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is ANEMIAA?","completion":"Anemia"}
+{"prompt":"What are the key facts about ANEMIAA?","completion":"Category: acute. ICD10 code: D64.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is Thrombocytopenia?","completion":"Low blood platelets level (thrombocytopenia)"}
+{"prompt":"What are the key facts about Thrombocytopenia?","completion":"Category: acute. ICD10 code: D69.6. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is GcCervicitis?","completion":"Gonococcal urethritis (cervicitis)"}
+{"prompt":"What are the key facts about GcCervicitis?","completion":"Category: acute. ICD10 code: A54.03. Rare: No. Gender-specific: Yes. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is PCaC?","completion":"Prostate cancer"}
+{"prompt":"What are the key facts about PCaC?","completion":"Category: chronic. ICD10 code: C61. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is HxOfPCaC?","completion":"History of prostate cancer"}
+{"prompt":"What are the key facts about HxOfPCaC?","completion":"Category: chronic. ICD10 code: C61. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is ProstatisA?","completion":"Prostate inflamation and / or infection (prostatitis)"}
+{"prompt":"What are the key facts about ProstatisA?","completion":"Category: acute. ICD10 code: N41.0. Rare: No. Gender-specific: Yes. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is GcUA?","completion":"Gonococcal urethritis"}
+{"prompt":"What are the key facts about GcUA?","completion":"Category: acute. ICD10 code: A54.01. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is Covid19Test?","completion":"COVID-19 virus identified"}
+{"prompt":"What are the key facts about Covid19Test?","completion":"Category: acute. ICD10 code: U07.1. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is CUC?","completion":"Ulcerative colitis"}
+{"prompt":"What are the key facts about CUC?","completion":"Category: chronic. ICD10 code: K51.90. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is CUA?","completion":"Ulcerative colitis exacerbation"}
+{"prompt":"What are the key facts about CUA?","completion":"Category: acute. ICD10 code: K51.90. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is Covid19Contact?","completion":"Contact with and (suspected) exposure to COVID-19"}
+{"prompt":"What are the key facts about Covid19Contact?","completion":"Category: acute. ICD10 code: Z20.822. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is Covid19URTI?","completion":"SARS-CoV-2 coronavirus disease 2019 (covid-19) mostly upper respiratory tract infection with, or without bronchitis, but without significant pneumonia"}
+{"prompt":"What are the key facts about Covid19URTI?","completion":"Category: acute. ICD10 code: U07.1. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is Covid19PNA?","completion":"SARS-CoV-2 coronavirus disease 2019 (covid-19) with pneumonia"}
+{"prompt":"What are the key facts about Covid19PNA?","completion":"Category: acute. ICD10 code: J12.82. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is CommonCold?","completion":"Common cold or viral upper respiratory tract infection (URTI)"}
+{"prompt":"What are the key facts about CommonCold?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 1."}
+{"prompt":"What is PancreatitisETOH?","completion":"Acute pancreatitis triggered by alcohol"}
+{"prompt":"What are the key facts about PancreatitisETOH?","completion":"Category: acute. ICD10 code: K85.2. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is PancreatitisA?","completion":"Idiopathic acute pancreatitis"}
+{"prompt":"What are the key facts about PancreatitisA?","completion":"Category: acute. ICD10 code: K85.00. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is ClusterHeadache?","completion":"Cluster headaches"}
+{"prompt":"What are the key facts about ClusterHeadache?","completion":"Category: acute. ICD10 code: G44.009. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 2."}
+{"prompt":"What is UncontrolledHTN?","completion":"Uncontrolled hypertension."}
+{"prompt":"What are the key facts about UncontrolledHTN?","completion":"Category: acute. ICD10 code: I10,R03.0. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is DiabetesKACA?","completion":"Diabetic ketoacidosis"}
+{"prompt":"What are the key facts about DiabetesKACA?","completion":"Category: acute. ICD10 code: E11.10. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is FusobacteriumNecrophorumPharyngitisComplicatedWithLemierreSyndrome?","completion":"Severe throat infection (pharyngitis) caused by fusobacterium necrophorum complicated by Lemierre syndrome"}
+{"prompt":"What are the key facts about FusobacteriumNecrophorumPharyngitisComplicatedWithLemierreSyndrome?","completion":"Category: acute. ICD10 code: A69.1. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is PrimaryArterialHypertension?","completion":"New diagnosis of high blood pressure (hypertension)"}
+{"prompt":"What are the key facts about PrimaryArterialHypertension?","completion":"Category: acute. ICD10 code: I10. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is PrimaryArterialHypertensionByHx?","completion":"Past medical history of high blood pressure (hypertension)"}
+{"prompt":"What are the key facts about PrimaryArterialHypertensionByHx?","completion":"Category: acute. ICD10 code: I10. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is PancreatitisHyperTGL?","completion":"Acute pancreatitis due to hyperglyceridemia"}
+{"prompt":"What are the key facts about PancreatitisHyperTGL?","completion":"Category: acute. ICD10 code: K85.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is PancreatitisGAP?","completion":"Acute pancreatitis due to gallstones"}
+{"prompt":"What are the key facts about PancreatitisGAP?","completion":"Category: acute. ICD10 code: K85.1. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is PancreatitisHIV?","completion":"Acute pancreatitis due to HIV"}
+{"prompt":"What are the key facts about PancreatitisHIV?","completion":"Category: acute. ICD10 code: K85.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is HypertensiveEmergencyA?","completion":"Emergency caused by severly elevated hypertension"}
+{"prompt":"What are the key facts about HypertensiveEmergencyA?","completion":"Category: acute. ICD10 code: I16.1. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is PancreatitisPancreaticCa?","completion":"Acute pancreatitis due to pancreatic cancer"}
+{"prompt":"What are the key facts about PancreatitisPancreaticCa?","completion":"Category: acute. ICD10 code: C25.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is SecondaryArterialHypertensionObesity?","completion":"High blood pressure (hypertension) secondary to obesity"}
+{"prompt":"What are the key facts about SecondaryArterialHypertensionObesity?","completion":"Category: chronic. ICD10 code: I15.9,E66.01. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is HeadacheAfterNitrates?","completion":"Headache after use of nitroglycerin or nitrates."}
+{"prompt":"What are the key facts about HeadacheAfterNitrates?","completion":"Category: acute. ICD10 code: T46.3X5A. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 2."}
+{"prompt":"What is CoronaryArteryDiseaseCAD?","completion":"Coronary artery disease, stable angina (CAD)"}
+{"prompt":"What are the key facts about CoronaryArteryDiseaseCAD?","completion":"Category: chronic. ICD10 code: I25.119. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is UnstableAngina?","completion":"Unstable angina (CAD)"}
+{"prompt":"What are the key facts about UnstableAngina?","completion":"Category: chronic. ICD10 code: I20.0. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is HeadacheDueToHTN?","completion":"Headache due to uncontrolled hypertension."}
+{"prompt":"What are the key facts about HeadacheDueToHTN?","completion":"Category: acute. ICD10 code: I67.4. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is HypertensiveUrgencyA?","completion":"Urgency caused by severly elevated hypertension"}
+{"prompt":"What are the key facts about HypertensiveUrgencyA?","completion":"Category: acute. ICD10 code: I16.0. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is HeadacheDueToCaffeineWithdrawal?","completion":"Headache due to caffeine withdrawal"}
+{"prompt":"What are the key facts about HeadacheDueToCaffeineWithdrawal?","completion":"Category: acute. ICD10 code: F15.93. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 2."}
+{"prompt":"What is PancreatitisDueToMeds?","completion":"Acute pancreatitis due to medications"}
+{"prompt":"What are the key facts about PancreatitisDueToMeds?","completion":"Category: acute. ICD10 code: K85.30. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is PancreatitisHyperCalcemia?","completion":"Acute pancreatitis due to hypercalcemia"}
+{"prompt":"What are the key facts about PancreatitisHyperCalcemia?","completion":"Category: acute. ICD10 code: K85.9. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is SecondaryArterialHypertensionCKD?","completion":"High blood pressure (hypertension) secondary to chronic kidney disease"}
+{"prompt":"What are the key facts about SecondaryArterialHypertensionCKD?","completion":"Category: chronic. ICD10 code: I12. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is TensionHeadache?","completion":"Tension headaches"}
+{"prompt":"What are the key facts about TensionHeadache?","completion":"Category: acute. ICD10 code: G44.209. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 2."}
+{"prompt":"What is PancreatitisOddis?","completion":"Acute pancreatitis due to sphincter of Oddi dysfunction"}
+{"prompt":"What are the key facts about PancreatitisOddis?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is PancreatitisERCP?","completion":"Acute pancreatitis due to recent endoscopic retrograde cholangiopancreatography (ERCP)"}
+{"prompt":"What are the key facts about PancreatitisERCP?","completion":"Category: acute. ICD10 code: K86.89. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is GastrittisBleedingA?","completion":"Gastritis related upper GI bleeding "}
+{"prompt":"What are the key facts about GastrittisBleedingA?","completion":"Category: acute. ICD10 code: K29.71. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is MigraineHeadache?","completion":"Migraine headaches"}
+{"prompt":"What are the key facts about MigraineHeadache?","completion":"Category: acute. ICD10 code: G43.909. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 2."}
+{"prompt":"What is FusobacteriumNecrophorumPharyngitis?","completion":"Severe throat infection (pharyngitis) caused by fusobacterium necrophorum"}
+{"prompt":"What are the key facts about FusobacteriumNecrophorumPharyngitis?","completion":"Category: acute. ICD10 code: A69.1. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is Leukopenia?","completion":"Low white blood cells (leukopenia)"}
+{"prompt":"What are the key facts about Leukopenia?","completion":"Category: acute. ICD10 code: D72.819. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is BRONCHITISA?","completion":"Inflamation of lungs' airways (acute bronchitis)"}
+{"prompt":"What are the key facts about BRONCHITISA?","completion":"Category: acute. ICD10 code: J20.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is FluA?","completion":"Influenza"}
+{"prompt":"What are the key facts about FluA?","completion":"Category: acute. ICD10 code: J10.1. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is AorticDissectionThoracic?","completion":"Thoracic aortic dissection"}
+{"prompt":"What are the key facts about AorticDissectionThoracic?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is PeritionitisA?","completion":"Peritonitis"}
+{"prompt":"What are the key facts about PeritionitisA?","completion":"Category: acute. ICD10 code: K65.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is VaricealBleedingA?","completion":"Variceal (esophagus) bleeding"}
+{"prompt":"What are the key facts about VaricealBleedingA?","completion":"Category: acute. ICD10 code: I85.01. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is PancreatitisC?","completion":"Chronic pancreatitis"}
+{"prompt":"What are the key facts about PancreatitisC?","completion":"Category: chronic. ICD10 code: K86.1. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is SecondaryArterialHypertension?","completion":"High blood pressure (hypertension) secondary to another cause"}
+{"prompt":"What are the key facts about SecondaryArterialHypertension?","completion":"Category: chronic. ICD10 code: I15.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is PTXA?","completion":"Acute pneumothorax"}
+{"prompt":"What are the key facts about PTXA?","completion":"Category: acute. ICD10 code: J93.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is ChronsA?","completion":"Crohn's disease exacerbation"}
+{"prompt":"What are the key facts about ChronsA?","completion":"Category: acute. ICD10 code: K50.90. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is TracheobronchitisA?","completion":"Acute tracheobronchitis"}
+{"prompt":"What are the key facts about TracheobronchitisA?","completion":"Category: acute. ICD10 code: J20.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is Ureterolithiasis?","completion":"Stone or stones in ureters"}
+{"prompt":"What are the key facts about Ureterolithiasis?","completion":"Category: chronic. ICD10 code: N20.0. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is PericarditisA?","completion":"Pericarditis"}
+{"prompt":"What are the key facts about PericarditisA?","completion":"Category: acute. ICD10 code: I30.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is ViralPharyngitis?","completion":"Throat infection (pharyngitis) caused by common viruses like rhinovirus, coronavirus, adenovirus or parainfluenza"}
+{"prompt":"What are the key facts about ViralPharyngitis?","completion":"Category: acute. ICD10 code: J02.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 2."}
+{"prompt":"What is AllergicRhinitisToPollen?","completion":"Hay fever, allergic rhinitis to pollen"}
+{"prompt":"What are the key facts about AllergicRhinitisToPollen?","completion":"Category: acute. ICD10 code: J30.9. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is AllergicRhinitisToDustMites?","completion":"Allergic rhinitis to dust mites"}
+{"prompt":"What are the key facts about AllergicRhinitisToDustMites?","completion":"Category: acute. ICD10 code: J30.89. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is StrepThroatA?","completion":"Strep-throat (streptococcal pharyngitis)"}
+{"prompt":"What are the key facts about StrepThroatA?","completion":"Category: acute. ICD10 code: J02. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is LVFA?","completion":"Heart failure (specifically left ventricle failure, acute)"}
+{"prompt":"What are the key facts about LVFA?","completion":"Category: acute. ICD10 code: I50.1. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is GERDA?","completion":"Gastroesophageal reflux without esophagitis"}
+{"prompt":"What are the key facts about GERDA?","completion":"Category: acute. ICD10 code: K21.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is SecondaryArterialHypertensionSecondaryRASAtherosclerotic?","completion":"High blood pressure (hypertension) secondary to renal artery stenosis secondary to atherosclerosis"}
+{"prompt":"What are the key facts about SecondaryArterialHypertensionSecondaryRASAtherosclerotic?","completion":"Category: chronic. ICD10 code: I15. 0. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is EsophagealSpasmA?","completion":"Esophageal spasm"}
+{"prompt":"What are the key facts about EsophagealSpasmA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is SecondaryArterialHypertensionHyperaldo?","completion":"High blood pressure (hypertension) secondary to hyperactive adrenal gland in producing aldosterone (hyperaldosteronism)"}
+{"prompt":"What are the key facts about SecondaryArterialHypertensionHyperaldo?","completion":"Category: chronic. ICD10 code: E26.1. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is GERDAWEsophagitisWOBleed?","completion":"Gastroesophageal reflux with esophagitis without bleed"}
+{"prompt":"What are the key facts about GERDAWEsophagitisWOBleed?","completion":"Category: acute. ICD10 code: K21.00. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is SinusitisC?","completion":"Sinusitis - chronic"}
+{"prompt":"What are the key facts about SinusitisC?","completion":"Category: acute. ICD10 code: J32.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is CKD?","completion":"Chronic kidney disease (III, IV and V)"}
+{"prompt":"What are the key facts about CKD?","completion":"Category: chronic. ICD10 code: N18.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is !CKD?","completion":"Chronic kidney disease"}
+{"prompt":"What are the key facts about !CKD?","completion":"Category: chronic. ICD10 code: N18.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is RVFA?","completion":"Acute right ventricle heart failure"}
+{"prompt":"What are the key facts about RVFA?","completion":"Category: acute. ICD10 code: I50.811. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 4."}
+{"prompt":"What is PleuralEffusionA?","completion":"Pleural effusion"}
+{"prompt":"What are the key facts about PleuralEffusionA?","completion":"Category: acute. ICD10 code: J90. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is FissureA?","completion":"Perirectal fissure"}
+{"prompt":"What are the key facts about FissureA?","completion":"Category: acute. ICD10 code: K60.2. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is SinusitisA?","completion":"Sinusitis - acute"}
+{"prompt":"What are the key facts about SinusitisA?","completion":"Category: acute. ICD10 code: J01.90. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is GERDAWEsophagitisWBleed?","completion":"Gastroesophageal reflux with esophagitis with bleed"}
+{"prompt":"What are the key facts about GERDAWEsophagitisWBleed?","completion":"Category: acute. ICD10 code: K21.01. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is LaryngitisA?","completion":"Acute laryngitis"}
+{"prompt":"What are the key facts about LaryngitisA?","completion":"Category: acute. ICD10 code: J04.0. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is RespiratoryAcidosis?","completion":"Respiratory acidosis"}
+{"prompt":"What are the key facts about RespiratoryAcidosis?","completion":"Category: acute. ICD10 code: J96.02. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is ANEMIAAFromAcuteBloodLoss?","completion":"Anemia from acute blood loss"}
+{"prompt":"What are the key facts about ANEMIAAFromAcuteBloodLoss?","completion":"Category: acute. ICD10 code: D62. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is ObesityHypeventA?","completion":"Obesity hypoventilation syndrome"}
+{"prompt":"What are the key facts about ObesityHypeventA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is BRCA12Carier?","completion":"BRCA1/2 (breast or ovarian gene carier) status"}
+{"prompt":"What are the key facts about BRCA12Carier?","completion":"Category: chronic. ICD10 code: Z15.01. Rare: No. Gender-specific: Yes. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is PE?","completion":"Blood clots in lungs - pulmonary embolus"}
+{"prompt":"What are the key facts about PE?","completion":"Category: acute. ICD10 code: I26.9. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is HxOfPE?","completion":"Past history of blood clots in lungs - pulmonary embolus"}
+{"prompt":"What are the key facts about HxOfPE?","completion":"Category: chronic. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is HxOfDVT?","completion":"Past history of blood clots in deep veins"}
+{"prompt":"What are the key facts about HxOfDVT?","completion":"Category: chronic. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 2."}
+{"prompt":"What is HxOfCHF?","completion":"Past history of congestive heart failure (CHF)"}
+{"prompt":"What are the key facts about HxOfCHF?","completion":"Category: chronic. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is HxOfCAD?","completion":"Past history of coronary artery disease (CAD)"}
+{"prompt":"What are the key facts about HxOfCAD?","completion":"Category: chronic. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is HxOfAfibAflut?","completion":"Past history of atrial fibrillation (Afib) or atrial flutter (Aflut)"}
+{"prompt":"What are the key facts about HxOfAfibAflut?","completion":"Category: chronic. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is HxOfCVA?","completion":"Past history of cebrovascular accident (CVA)"}
+{"prompt":"What are the key facts about HxOfCVA?","completion":"Category: chronic. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is GastroenteritisViralA?","completion":"Gastroenteritis likely viral"}
+{"prompt":"What are the key facts about GastroenteritisViralA?","completion":"Category: acute. ICD10 code: A09. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is Transaminitis?","completion":"Transaminitis"}
+{"prompt":"What are the key facts about Transaminitis?","completion":"Category: chronic. ICD10 code: R74.0. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is SecondaryArterialHypertensionOSA?","completion":"High blood pressure (hypertension) secondary to obstructive sleep apnea (OSA)"}
+{"prompt":"What are the key facts about SecondaryArterialHypertensionOSA?","completion":"Category: chronic. ICD10 code: I15.9,G47.33. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is DM1ByHx?","completion":"Past medical history of diabetes melltus type 1 per history (chronic condition)"}
+{"prompt":"What are the key facts about DM1ByHx?","completion":"Category: chronic. ICD10 code: E10. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is DiabeticNephropathy?","completion":"Kidney disease secondary to diabetic damage (diabetic nephropathy)"}
+{"prompt":"What are the key facts about DiabeticNephropathy?","completion":"Category: chronic. ICD10 code: N18.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is AppendicitisA?","completion":"!!!"}
+{"prompt":"What are the key facts about AppendicitisA?","completion":"Category: acute. ICD10 code: K35.80. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is PUDPerfA?","completion":"Perforated peptic or duodenal ulcer"}
+{"prompt":"What are the key facts about PUDPerfA?","completion":"Category: acute. ICD10 code: K25.1. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is SepsticShockA?","completion":"Septic shock"}
+{"prompt":"What are the key facts about SepsticShockA?","completion":"Category: acute. ICD10 code: R65.21. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is Shock?","completion":"Severly decreased blood pressure (shock)"}
+{"prompt":"What are the key facts about Shock?","completion":"Category: acute. ICD10 code: R57.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is ShockLiver?","completion":"Liver damage caused by low pressure."}
+{"prompt":"What are the key facts about ShockLiver?","completion":"Category: acute. ICD10 code: K72.0. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is HypertensiveNephropathy?","completion":"Kidney disease due to damage from high blood pressure (hypertension)"}
+{"prompt":"What are the key facts about HypertensiveNephropathy?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is AnaphylacticShock?","completion":"Anaphylaxis with shock"}
+{"prompt":"What are the key facts about AnaphylacticShock?","completion":"Category: acute. ICD10 code: T78.00XA. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is SVT?","completion":"Blood clots in superficial veins  (SVT) of lower extremities"}
+{"prompt":"What are the key facts about SVT?","completion":"Category: acute. ICD10 code: I82.819. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is DVT?","completion":"Blood clots in deep veins (DVT)"}
+{"prompt":"What are the key facts about DVT?","completion":"Category: acute. ICD10 code: I82.40. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is COPDA?","completion":"Chronic obstructive pulmonary disease (COPD) exacerbation"}
+{"prompt":"What are the key facts about COPDA?","completion":"Category: acute. ICD10 code: J44.1. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is ACEinhibitorRelatedCough?","completion":"Cough caused by ACE (angiotensin converting enzyme) inhibitor, or ARB (angiotensin receptor blocker)"}
+{"prompt":"What are the key facts about ACEinhibitorRelatedCough?","completion":"Category: acute. ICD10 code: T46.4X5A. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 2."}
+{"prompt":"What is AsthmaA?","completion":"Asthma exacerbation without acute respiratory failure"}
+{"prompt":"What are the key facts about AsthmaA?","completion":"Category: acute. ICD10 code: J45.901. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is AtopicDermatitis?","completion":"Atopic dermatitis"}
+{"prompt":"What are the key facts about AtopicDermatitis?","completion":"Category: chronic. ICD10 code: l20.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is BowelObstructionA?","completion":"Bowel obstruction"}
+{"prompt":"What are the key facts about BowelObstructionA?","completion":"Category: acute. ICD10 code: K56.60. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is AsthmaARFA?","completion":"Asthma exacerbation with acute respiratory failure"}
+{"prompt":"What are the key facts about AsthmaARFA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: Yes. Can't-miss: No. Risk level: 4."}
+{"prompt":"What is OSA?","completion":"Obstructive sleep apnea"}
+{"prompt":"What are the key facts about OSA?","completion":"Category: chronic. ICD10 code: G47.33. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is PulmTBA?","completion":"Pulmonary tuberculosis"}
+{"prompt":"What are the key facts about PulmTBA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is NonTBMycobacteriaeA?","completion":"Acute nontuberculous mycobacterial lung infection"}
+{"prompt":"What are the key facts about NonTBMycobacteriaeA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 3."}
+{"prompt":"What is LungAbscessA?","completion":"Lung abscess"}
+{"prompt":"What are the key facts about LungAbscessA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is EmpyemaA?","completion":"Empyema"}
+{"prompt":"What are the key facts about EmpyemaA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is OtitisMediaA?","completion":"Otitis media"}
+{"prompt":"What are the key facts about OtitisMediaA?","completion":"Category: acute. ICD10 code: H66.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is OtitisExternaA?","completion":"Otitis externa"}
+{"prompt":"What are the key facts about OtitisExternaA?","completion":"Category: acute. ICD10 code: H60. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is AcuteEyeEmergencyA?","completion":"Acute eye emergency"}
+{"prompt":"What are the key facts about AcuteEyeEmergencyA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is AnxietyA?","completion":"Anxiety"}
+{"prompt":"What are the key facts about AnxietyA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is AorticStenosisA?","completion":"Acute aortic stenosis (AS)"}
+{"prompt":"What are the key facts about AorticStenosisA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is PCDiabetesC?","completion":"Uncontrolled diabetes"}
+{"prompt":"What are the key facts about PCDiabetesC?","completion":"Category: chronic. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No. Risk level: 3."}
+{"prompt":"What is AorticRegurgitationA?","completion":"Acute aortic regurgitation (AR or AI)"}
+{"prompt":"What are the key facts about AorticRegurgitationA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is MitralRegurgitationA?","completion":"Acute mitral regurgitation (MR)"}
+{"prompt":"What are the key facts about MitralRegurgitationA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is PulmonaryRegurgitationA?","completion":"Pulmonary regurgitation (PR)"}
+{"prompt":"What are the key facts about PulmonaryRegurgitationA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is ThyroidGoiterA?","completion":"Acute thyroid goiter airway obstruction"}
+{"prompt":"What are the key facts about ThyroidGoiterA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is MIA?","completion":"Heart attack (myocardial infarction)"}
+{"prompt":"What are the key facts about MIA?","completion":"Category: acute. ICD10 code: I21.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is DiabetesHONKA?","completion":"Diabetic hyperosmolar hyperglycemic state"}
+{"prompt":"What are the key facts about DiabetesHONKA?","completion":"Category: acute. ICD10 code: E11. 00. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: Yes. Risk level: 4."}
+{"prompt":"What is ACSA?","completion":"Acute coronary syndrome"}
+{"prompt":"What are the key facts about ACSA?","completion":"Category: acute. ICD10 code: I24.9. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is VSDA?","completion":"Acute ventricular septal (rupture) defect"}
+{"prompt":"What are the key facts about VSDA?","completion":"Category: acute. Rare: No. Gender-specific: No. Life-threatening: No. Can't-miss: No."}
+{"prompt":"What is CostochondritisAMSKChestPain?","completion":"Costochondritis or otherwise musculoskeletal chest pain"}
